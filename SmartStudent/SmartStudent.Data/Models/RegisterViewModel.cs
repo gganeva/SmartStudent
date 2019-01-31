@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace SmartStudent.Models
+namespace SmartStudent.Data.Models
 {
     public class RegisterViewModel
     {

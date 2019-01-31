@@ -5,7 +5,7 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Owin;
 
-using SmartStudent.Models;
+using SmartStudent.Data.Models;
 
 namespace SmartStudent
 {

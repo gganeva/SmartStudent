@@ -1,7 +1,7 @@
 ﻿using System.Data.Entity;
 using Microsoft.AspNet.Identity.EntityFramework;
 
-namespace SmartStudent.Models
+namespace SmartStudent.Data.Models
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {

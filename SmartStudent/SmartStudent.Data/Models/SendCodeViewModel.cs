@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SmartStudent.Models
+namespace SmartStudent.Data.Models
 {
     public class SendCodeViewModel
     {

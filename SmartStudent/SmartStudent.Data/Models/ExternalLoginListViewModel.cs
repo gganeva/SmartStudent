@@ -1,4 +1,4 @@
-﻿namespace SmartStudent.Models
+﻿namespace SmartStudent.Data.Models
 {
     public class ExternalLoginListViewModel
     {
